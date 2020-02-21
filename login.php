@@ -11,7 +11,7 @@
 		<tr><td><label>password</label></td>
 			<td><input type="password" name="pwd" ></td>
 		</tr>
-		<tr><td><button type="submit" name="submit">login</button></td></tr></table>
+		<tr><td><button type="submit" name="submit">signin</button></td></tr></table>
 	
 </form>
 </body>
